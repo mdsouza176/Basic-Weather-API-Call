@@ -9,7 +9,7 @@ public class Weather {
 
     public static void main(String[] args) {
 
-        String appid = "4e8f4ece0985ca1849a7d5a32bf1afd3";
+        String appid = "YOUR_APP_ID";
         boolean cityFound = false;
 
         try {
